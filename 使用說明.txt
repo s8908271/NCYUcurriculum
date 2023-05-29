@@ -1,0 +1,4 @@
+請將chromedriver.exe放入google chrome的資料夾底下中，並將路徑加入環境變數path中
+參考路徑：
+C:\Program Files (x86)\Google\Chrome\Application
+C:\Program Files\Google\Chrome\Application
